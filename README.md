@@ -1,2 +1,2 @@
-# PrepCourse-henry
-Este es un repositorio de prueba del modulo2 de henry
+este proyecto para crearlo y actualizarlo en el computador para ser sibido a github
+
